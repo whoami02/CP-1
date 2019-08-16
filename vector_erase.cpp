@@ -29,6 +29,5 @@ cout << v.size() << endl;
 for(auto _v : v)
     cout << _v << " ";
 cout << endl;
-
 return 0;
 }
