@@ -19,6 +19,6 @@ for (int i=0; i<iCount; ++i){
             cout << (ss.find(query) == ss.end() ? "No" : "Yes") << endl;
             break;
     }
-}  
-return 0;
+  }  
+  return 0;
 }
