@@ -16,5 +16,5 @@ int main() {
     else
       cout << m[name] << endl;
   }
-  return 0;
+ return 0;
 }
